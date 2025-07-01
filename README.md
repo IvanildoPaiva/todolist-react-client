@@ -6,8 +6,8 @@
 
 ## 📸 Screenshot
 
-![Screenshot da Aplicação To-Do List](https://imgur.com/gallery/todolist-G67PRdF#LkaEbF1)
-*(Dica: Tire um print da sua aplicação finalizada, adicione o arquivo de imagem na pasta do projeto e coloque o caminho para ela aqui)*
+![Screenshot da Aplicação To-Do List](https://i.imgur.com/LkaEbF1.png)
+
 
 ## 📝 Descrição
 
