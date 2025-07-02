@@ -1,0 +1,26 @@
+/* Podemos simplificar muito nosso CSS agora */
+.task-item {
+    margin-bottom: 12px !important; /* !important para sobrescrever o estilo do AntD */
+    cursor: pointer;
+  }
+  
+  /* O AntD Card já tem borda, então podemos controlar a cor aqui */
+  .task-item.completed {
+    background-color: #f6f6f6;
+    border-color: #d9d9d9;
+  }
+  
+  .task-item.completed p {
+    text-decoration: line-through;
+    color: #aaa;
+  }
+  
+  .task-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .task-content p {
+    margin: 0; /* Remove a margem padrão do parágrafo */
+  }

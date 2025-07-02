@@ -1,0 +1,60 @@
+.task-item {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 10px 15px;
+    margin-bottom: 8px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+  
+  .task-item:hover {
+    background-color: #f9f9f9;
+  }
+  
+  /* Este é o estilo para a tarefa completada */
+  .task-item.completed p {
+    text-decoration: line-through;
+    color: #aaa;
+  }
+
+  /* Adicione estas regras no final do seu TaskItem.css */
+
+/* Isso vai ajudar a alinhar o texto e o botão */
+.task-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.delete-btn {
+  background-color: transparent;
+  border: none;
+  color: #ff4d4d;
+  font-size: 20px;
+  cursor: pointer;
+  padding: 5px;
+  border-radius: 50%;
+  line-height: 1;
+}
+
+.delete-btn:hover {
+  background-color: #ffe5e5;
+}
+
+/* Em App.css */
+.clear-btn {
+  display: block;
+  margin: 20px auto 0;
+  padding: 10px 15px;
+  border: 1px solid #dc3545;
+  color: #dc3545;
+  background-color: transparent;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.clear-btn:hover {
+  background-color: #dc3545;
+  color: white;
+}
