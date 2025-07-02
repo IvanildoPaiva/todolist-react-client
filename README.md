@@ -46,7 +46,7 @@ Siga os passos abaixo para executar o front-end em sua máquina.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/IvanildoPaiva/todolist-react-client.git](https://github.com/IvanildoPaiva/todolist-react-client.git)
+    git clone https://github.com/IvanildoPaiva/todolist-react-client.git
     ```
 
 2.  **Navegue até a pasta do projeto:**
