@@ -40,13 +40,13 @@ Siga os passos abaixo para executar o front-end em sua máquina.
 ### Pré-requisitos
 
 -   [Node.js](https://nodejs.org/) (versão 18.x ou superior) e npm.
--   O **servidor do back-end precisa estar rodando** para que a aplicação funcione corretamente. Siga as instruções no [repositório da API](LINK_PARA_O_REPOSITORIO_DO_BACKEND_AQUI).
+-   O **servidor do back-end precisa estar rodando** para que a aplicação funcione corretamente. Siga as instruções no [repositório da API](https://github.com/IvanildoPaiva/todolist-csharp-api.git).
 
 ### Passos
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/IvanildoPaiva/todolist-react-client.git](https://github.com/IvanildoPaiva/todolist-react-client.git)
+    git clone [https://github.com/IvanildoPaiva/todolist-react-client.git]
     ```
 
 2.  **Navegue até a pasta do projeto:**
