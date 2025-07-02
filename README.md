@@ -15,7 +15,7 @@ Este é o repositório do cliente front-end para a aplicação **To-Do List Full
 
 Esta aplicação consome uma API de back-end construída separadamente em C# com ASP.NET Core.
 
-➡️ **Link para o repositório do Back-end:** [TaskManager.API](LINK_PARA_O_REPOSITORIO_DO_BACKEND_AQUI)
+➡️ **Link para o repositório do Back-end:** [TaskManager.API](https://github.com/IvanildoPaiva/todolist-csharp-api.git)
 
 ## ✨ Funcionalidades
 
